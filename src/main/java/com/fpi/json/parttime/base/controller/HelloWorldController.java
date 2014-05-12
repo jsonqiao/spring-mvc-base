@@ -1,5 +1,5 @@
 /**
- * @版权所有 聚光科技（杭州）股份有限公司
+ * @版权所有 json
  * 
  */
 package com.fpi.json.parttime.base.controller;
